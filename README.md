@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data analyst
 ------------
 
-I am a seasoned professional with a diverse background spanning Behavioural Science, UX Research, Data Analysis, and Product Management, I am passionate about leveraging technology and data-driven insights to drive positive change in healthcare. I have a Ph.D. in Information Processing Science, I bring a unique blend of technical expertise, research acumen, and strategic vision to the table. 
+I am a seasoned professional with a diverse background spanning Behavioural Science, UX Research, Data Analysis, and Product Management, I am passionate about leveraging technology and data-driven insights to drive positive change in healthcare. I have a Ph.D. in Information Processing Science and I bring a unique blend of technical expertise, research acumen, and strategic vision to the table. 
 
 Currently, I am transitioning into data analyst roles by upskilling through the Data Technician Bootcamp at JustIT. This program is helping me to enhance my existing skills and acquire new ones, preparing me for a career as a business data analyst. 
 
