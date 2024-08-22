@@ -1,54 +1,47 @@
-![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/25aae440-562c-4aa6-b162-8c879d7f607c)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eunice Agyei
+====================================================================================================================================
 
-## Hi there 👋
+Data analyst
+------------
 
-<!--
-**Frimponmaa/Frimponmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/e70dd02b-41f1-4539-9c7f-104fe38f8e89)
+I am a seasoned professional with a diverse background spanning Behavioural Science, UX Research, Data Analysis, and Product Management, I am passionate about leveraging technology and data-driven insights to drive positive change in healthcare. With a Ph.D. in Information Processing Science, I bring a unique blend of technical expertise, research acumen, and strategic vision to the table. Currently, I am transitioning into data analyst roles by upskilling through the Data Technician Bootcamp at JustIT. This program is helping me to enhance my existing skills and acquire new ones, preparing me for a career as a business data analyst. I possess strong technical expertise in SQL, Python (Pandas), R, and data visualisation tools like Power BI and Tableau, as well as experience with Azure data services and statistical analysis, I am well-equipped to tackle data-related challenges and communicate insights effectively. Also, my background as a UX researcher has fueled my passion for improving services through insightful, data-driven methodologies. This experience has honed my ability to analyse qualitative and quantitative data, identify key insights, and translate them into actionable recommendations—skills that are directly transferable to data analysis. Driven by curiosity and a desire to solve complex problems, I am committed to continuous improvement in data analytics. I am eager to contribute my expertise to organisations that value data-driven innovation and growth in data analyst roles. Hire me if you want to maximise the value of your data assets through visualisation and reporting tools such as Microsoft Power BI and Tableau.
 
-Here are some ideas to get you started:
+* 🌍  I'm based in London
+* ✉️  You can contact me at [afeye23uk@gmail.com](mailto:afeye23uk@gmail.com)
+* 🧠  I'm learning Data and product analytics
+* 🤝  I'm open to collaborating on data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.github.com/Frimponmaa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Frimponmaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-👋 Hi, I'm Eunice Agyei
-Welcome to my GitHub profile! I have a PhD  in Information Processing Science with a passion for data analysis and transforming complex datasets into actionable insights. My expertise spans a range of tools and technologies including:
+### Skills
 
-1. Programming Languages: Python (with a focus on Pandas for data manipulation), SQL, and R
-2. Data Visualization: Power BI, Tableau
-3. Cloud Services: Azure Data Services
-4. Statistical Analysis: Advanced statistical methods for deep data insights
 
-🔍 What I Do
-My work revolves around leveraging data to drive business growth and product success. I specialise in:
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
+</p>
 
-1. Extracting and processing data from various sources
-2. Building analytical models to uncover trends and patterns
-3. Creating impactful visualizations that communicate key findings
-4. Developing data-driven strategies to optimize performance
 
-🛠️ Technologies & Tools
-1. Python: Data analysis, machine learning, and automation
-2. SQL: Database management, querying, and data extraction
-3. R: Statistical computing and data visualization
-4. Power BI & Tableau: Crafting compelling visual reports and dashboards
-5. Azure: Cloud-based data processing and analytics
+### Socials
 
-🌟 Current Projects
-Visit my website to find more on my profile: https://sites.google.com/view/euniceagyei 
+<p align="left"> <a href="https://www.github.com/Frimponmaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/euniceagyei" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-📫 Let's Connect!
-If you’re interested in collaborating on a project or simply want to connect, feel free to reach out:
+### Badges
 
-LinkedIn: https://www.linkedin.com/in/euniceagyei/
-Email: afeye23@gmail.com
+<b>My GitHub Stats</b>
 
-Thank you for visiting my profile! I look forward to exploring new opportunities and challenges in the world of data.
+<a href="http://www.github.com/Frimponmaa"><img src="https://github-readme-stats.vercel.app/api?username=Frimponmaa&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Frimponmaa's GitHub stats" /></a>
 
+<a href="http://www.github.com/Frimponmaa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Frimponmaa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Frimponmaa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Frimponmaa&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Frimponmaa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frimponmaa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Frimponmaa/https://github.com/Frimponmaa/Data_analysis_with_R" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Frimponmaa&repo=https://github.com/Frimponmaa/Data_analysis_with_R&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Frimponmaa/https://github.com/Frimponmaa/Data_analysis_Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Frimponmaa&repo=https://github.com/Frimponmaa/Data_analysis_Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Frimponmaa/https://github.com/Frimponmaa/SQL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Frimponmaa&repo=https://github.com/Frimponmaa/SQL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
