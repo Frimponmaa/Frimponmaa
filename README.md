@@ -13,7 +13,7 @@ I possess strong technical expertise in SQL, Python (Pandas), R, and data visual
 Driven by curiosity and a desire to solve complex problems, I am committed to continuous improvement in data analytics. I am eager to contribute my expertise to organisations that value data-driven innovation and growth in data analyst roles. Hire me if you want to maximise the value of your data assets through visualisation and reporting tools such as Microsoft Power BI and Tableau.
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [afeye23uk@gmail.com](mailto:afeye23uk@gmail.com)
+* ✉️  You can contact me at [afeye23@gmail.com](mailto:afeye23uk@gmail.com)
 * 🧠  I'm learning Data and product analytics
 * 🤝  I'm open to collaborating on data analysis
 
