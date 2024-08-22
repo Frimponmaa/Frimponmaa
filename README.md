@@ -35,11 +35,11 @@ My work revolves around leveraging data to drive business growth and product suc
 4. Developing data-driven strategies to optimize performance
 
 🛠️ Technologies & Tools
-Python: Data analysis, machine learning, and automation
-SQL: Database management, querying, and data extraction
-R: Statistical computing and data visualization
-Power BI & Tableau: Crafting compelling visual reports and dashboards
-Azure: Cloud-based data processing and analytics
+1. Python: Data analysis, machine learning, and automation
+2. SQL: Database management, querying, and data extraction
+3. R: Statistical computing and data visualization
+4. Power BI & Tableau: Crafting compelling visual reports and dashboards
+5. Azure: Cloud-based data processing and analytics
 
 🌟 Current Projects
 Visit my website to find more on my profile: https://sites.google.com/view/euniceagyei 
