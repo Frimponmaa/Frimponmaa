@@ -10,7 +10,7 @@ Through the Data Technician Bootcamp at JustIT, I have honed my skills in SQL, P
 
 Also, my background as a UX researcher has deepened my passion for enhancing services through data-driven methodologies. This experience has sharpened my ability to analyse both qualitative and quantitative data, extract critical insights, and convert them into actionable recommendations—skills that are directly applicable to data analysis.
 
-I am driven by curiosity, committed to solving complex problems, and dedicated to continuous learning and growth in the field of data analytics. I am excited to apply my expertise to organisations that prioritise data-driven innovation and growth. If your goal is to maximise the value of your data assets through insightful analysis and impactful visualisation, I canto help you achieve those objectives.
+I am driven by curiosity, committed to solving complex problems, and dedicated to continuous learning and growth in the field of data analytics. I am excited to apply my expertise to organisations that prioritise data-driven innovation and growth. If your goal is to maximise the value of your data assets through insightful analysis and impactful visualisation, I can help you achieve those objectives.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [eunice.agyei.work@gmail.com](mailto:eunice.agyei.work@gmail.com) 
