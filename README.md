@@ -1,3 +1,5 @@
+![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/0bd30e72-fca4-4f7c-9d3e-9cff5ba7548f)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Eunice Agyei
 ====================================================================================================================================
 
